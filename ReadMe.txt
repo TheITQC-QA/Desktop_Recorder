@@ -1,5 +1,5 @@
 1- To record your desktop using python, you have to install a python package and import
-	"pyautoui"
+	"pyautogui"
 
 	 pip install pyautogui
 
